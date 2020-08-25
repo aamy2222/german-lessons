@@ -1,0 +1,45 @@
+git init emina
+git help
+cd emina
+git status
+//dodavanje dokumenta u repozitorijum users/emina/dokument1
+git status
+git add dokument1.txt
+git status
+git commit -m "Dodavanje fajla dokument1.txt"
+//git config --global user.email ""
+//dodavanje 3 nova fajla
+git add * //dodavanje novih na scenu
+git rm --cached dokument4.txt //brisanje sa scene
+git commit -m "Dodavanje fajlova dokument2.txt i dokument3.txt"
+git status
+git clean -n //brisanje fajlova koji nisu deo scene - samo pokazuje sto moze biti obrisano
+git clean -f //fizicki brise untracked dokumente
+git tag verzija1 //postavljanje taga
+git tag //prikaz taga
+git tag -d verzija1 //brisanje taga
+//menjanje fajla dokument1.txt, ubaciti neki dodatni tekst
+git add *
+git commit -m "Izmena fajla dokument1.txt"
+git log //prikaz svih izmena
+git log -p -1 dokument1.txt //prikaz izmena za fajl dokument1.txt
+git diff HEAD~1: HEAD: //razlike
+//promene za odredjeni commit -> git diff *neki cudni kod*
+___________________________________________________
+git branch grana2 //napravljena grana2
+git checkout -b grana3 //prebacivanje na granu3
+git checkout master //prebacivanje na master granu
+//dodavanje novogFajla (git add i git commit) na masteru
+git checkout grana3 //prebacivanje na granu3 - nema fajla noviFajl.txt
+git checkout master -- noviFajl.txt //dodavanje fajla na granu3
+git commit -m "Dodavanje novog fajla noviFajl.txt" //dodavanje fajla
+
+//pravljenje dokumenta5.txt na grani3
+git add dokument5.txt
+git commit -m "Dodavanje fajla dokument5.txt"
+ 
+git checkout master //vracanje na glavnu granu
+git merge -m "Spajanje grane3 i mastera" grana3 //da nove fajlove premestimo na glavnu granu
+git branch -d grana3 //brisanje grane3
+
+

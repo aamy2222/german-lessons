@@ -1,0 +1,62 @@
+Link ka mreznom repozitorijumu: https://github.com/emina2222/IST_v2
+
+Komande:
+___________________________________________________________________
+
+git init emina
+
+cd emina
+
+git status
+
+git remote add origin https://github.com/cvicko/ISTvezba1.git
+
+git remote -v
+
+git remote rm origin
+
+git remote add origin https://github.com/emina2222/IST_v2
+
+#dodala sam fajlove dok1.txt i dok2.txt rucno na github
+
+git remote -v
+
+git clone https://github.com/emina2222/IST_v2
+
+cd IST_v2
+
+git add .
+
+git status
+
+#modifikovala sam fajlove dok1.txt i dok2.txt
+
+git add .
+
+git commit -m "Izmenjeni fajlovi dok1 i dok2"
+
+git push -u origin master
+
+#promene su zabelezene na remote repozitorijumu
+
+git checkout origin/master
+
+git checkout -b "nova_grana"
+
+git push -u origin nova_grana
+
+#dodat novi fajl dok3.txt na ovu granu rucno (moze i naredba touch dok3.txt)
+
+git add .
+
+git commit -m "Dodat novi fajl dok3 na novu granu"
+
+git push -u origin nova_grana
+
+git checkout master
+
+git merge nova_grana
+
+git push -u origin master
+
+
