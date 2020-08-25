@@ -1,0 +1,42 @@
+﻿Jaka deklinacija
+
+Ovaj tip deklinacije se koristi, kada pridev stoji sam ispred imenice, bez određenog ili neoređenog člana, bez prisvojnih prideva i bez negacije. Pošto stoji sam ispred imenice, pridev mora da preuzme ulogu određenog člana i da naglasi kog je člana imenica i stoga se deli skoro identično kao i sam određeni član (jedino u genitivu jednine imenica muškog i srednjeg roda nastavak za pridev  je drugačiji nego određeni član). Imenica u dativu množine dobija nastavak N, dok imenice muškog i srednjeg roda u genitivu jednine dobijaju nastavak S, ES
+
+Nominativ:  neuer Hut	neue Kette	neues Auto	neue Schuhe
+Genitiv  :  neuen Huts	neuer Kette	neuen Autos	neuer Schuhe
+Dativ    :  neuem Hut	neuer Kette	neuem Auto	neuen Schuhen   
+Akuzativ :  neuen Hut	neue Kette	neues Auto	neue Schuhe
+
+____________________________________________________________________________________________
+
+Slaba deklinacija
+
+Pridevska promena po ovom tipu se dešava kad pridev stoji nakon određenog člana DER, DIE, DAS, nakon pokazne zamenice DIESER, DIESE, DIESES (koji se dekliniraju kao i sam određeni član), kao i sledeće zamenice koje se po rodu, broju i padežu dekliniraju isto kao i određeni član: JEDER, JENER, WELCHER, SOLCHER, MANCHER. S obzirom na to da se sve menja po određenom članu nepotrebno je da i pridev ima isti nastavak.
+
+Nominativ:  der neue Hut	die neue Kette	das neue Auto	die neuen Schuhe
+Genitiv  :  des neuen Huts	der neuen Kette	des neuen Autos	der neuen Schuhe
+Dativ    :  dem neuen Hut	der neuen Kette	dem neuen Auto	den neuen Schuhen   
+Akuzativ :  den neuen Hut	die neue Kette	das neue Auto	die neuen Schuhe
+
+Pridev ima dva moguća nastavka E ili EN, nastavak E se koristi u nominativu jednine i akuzativu jednine ženskog i srednjeg roda, dok se nastavak EN koristi u svim ostalim oblicima. Može se reći da se nastavak EN koristi uvek kada se oblik imenice razlikuje od nominativa jednine te iste imenice.
+
+Na primer - der Lehrer (nom. jed.), dem Lehrer (dat. jed.), den Lehrer (akuz. jed.), die Lehrer (mn.) u svim oblicima se razlikuje od nominativa jednine, to znači da će u svim oblicima za pridev biti nastavk EN, a samo u nominativu jednine E.
+
+____________________________________________________________________________________________
+
+Mešovita deklinacija
+
+Kako joj i ime govori, ona je spoj jake i slabe deklinacije. U nominativu jednine i u akuzativu jednine imenice ženskog i srednjeg roda, pridev preuzima nastavak koji bi dobio i u jakoj deklinaciji. Zašto? Član koji stoji ispred imenice u tim slučajevima ne može dovoljno da odredi imenicu pa to mora da uradi pridev sa jakim nastavkom.
+
+U ostalim slučajevima pridev dobija nastavke iz slabe deklinacije, odnosno nastavak EN. Zašto? Određeni član ispred prideva dovoljno dobro određuje imenicu, pa nije potrebno da to radi i pridev.
+
+Mešovita deklinacija se koristi kada se ispred prideva nalaze neodređeni član EIN, EINE, ili negativna zamenica KEIN, KEINE, ili svi prisvojni pridevi MEIN, DEIN, IHR, SEIN, UNSER, EUER.
+
+Nominativ:  mein neuer  Hut	meine neue Kette	mein neues Auto		meine neuen Schuhe
+Genitiv  :  meines neuen Huts	meiner neuen Kette	meines neuen Autos	meiner neuen Schuhe
+Dativ    :  meinem neuen Hut	meiner neuen Kette	meinem neuen Auto	meienen neuen Schuhen 
+Akuzativ :  meinen neuen Mut	meine neue Kette	mein neues Auto		meinie neuen Schuhe
+
+I na kraju još jedan koristan savet.
+
+Zaokružite u mešovitoj i slaboj deklinaciji sve oblike koji se završavaju na EN. Oblik koji ćete dobiti podseća na ključ. Vizuelno možete pamtiti da ako oblik imenice spada u područje ključa obavezno ima nastavak EN.
